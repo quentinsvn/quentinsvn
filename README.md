@@ -45,13 +45,17 @@
   ![IntelleiJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat-square&logo=intellij-idea&logoColor=007ACC)
 
 ## Statistiques
+
+[![Repos Badge](https://badges.pufler.dev/repos/quentinsvn)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/quentinsvn)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/quentinsvn/quentinsvn)](https://badges.pufler.dev)
+
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quentinsvn&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quentinsvn&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-
 
 ##  🤝🏻 &nbsp;Contact
 
