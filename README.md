@@ -19,6 +19,7 @@
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat-square&logo=django)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat-square&logo=laravel)
   ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat-square&logo=wordpress)
+  ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat-square&logo=symfony)
 - 🖥️ &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
