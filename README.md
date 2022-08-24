@@ -45,16 +45,24 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse&logoColor=007ACC)
   ![IntelleiJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat-square&logo=intellij-idea&logoColor=007ACC)
 
-## Statistiques
+##  📈 &nbsp;Statistiques
 
-[![Repos Badge](https://badges.pufler.dev/repos/quentinsvn)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/quentinsvn)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/quentinsvn/quentinsvn)](https://badges.pufler.dev)
+<div align="center"><br/>
+<img src="https://badges.strrl.dev/repos/quentinsvn" alt="Repos total" />
+<img src="https://badges.strrl.dev/years/quentinsvn" alt="Nombre d'années présent sur GitHub" />
+<img src="https://komarev.com/ghpvc/?username=quentinsvn" alt="Nombre de vues" />
+</div><br/>
 
-<p>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quentinsvn&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quentinsvn&theme=radical&layout=compact&exclude_lang=java+r" />
-</p>
+</div>
+
+##  🏆 &nbsp;Trophées
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=quentinsvn"/>
+</div>
 
 ##  🤝🏻 &nbsp;Contact
 
@@ -63,5 +71,5 @@
 <img src="https://img.shields.io/badge/-Quentin%230339-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 <a href="https://www.linkedin.com/in/quentin-savean"><img src="https://img.shields.io/badge/-Quentin%20Savéan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:quentin.savean@protonmail.com"><img src="https://img.shields.io/badge/-quentin.savean@protonmail.com-9497CE?style=flat-square&logo=protonmail&logoColor=white"/></a>
-  
+</p>
   
